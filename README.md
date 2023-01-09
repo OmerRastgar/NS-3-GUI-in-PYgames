@@ -19,6 +19,15 @@ License.
 
 
 
+In the final evaluation for capstone two, we will have a simulation environment
+for LTE. This tool can be used for education as it can demonstrate two major
+LTE attacks. It can be open-sourced for other people to work and build on top of the
+code. NS3 is well known for its simulation capabilities but until now there have been
+very few tools for representing nodes in GUI. This can be a starting point for a generic
+system used for other research purposes. This is achieved by the fact that all of the
+modules that I have made in PYgames are separate objects that can be called for any
+dynamic application.
+
 # How to install 
 1.   Install [ubuntu](https://ubuntu.com/download) 
 2.   Install [NS3](https://www.nsnam.org/wiki/Installation)
