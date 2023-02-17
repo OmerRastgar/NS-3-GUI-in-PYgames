@@ -8,6 +8,9 @@ environment that allows users to model many sorts of networks and network behavi
 It also includes a set of tools for evaluating and displaying simulation results. Ns-3 is
 written in C++ and Python and distributed under the terms of the GNU General Public
 License.
+![Beige and Brown Simple Modern Timeline Diagram Graph](https://user-images.githubusercontent.com/62338143/219623317-8cd36964-eaac-4ad1-a138-5a52ecbe3858.png)
+
+
 
 # Results
 
